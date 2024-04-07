@@ -1,0 +1,11 @@
+#container-cad-restaurante {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+label {
+ display: flex;
+ margin-bottom: 1rem;
+ margin-top: 1rem;
+ font-weight: 600;
+}

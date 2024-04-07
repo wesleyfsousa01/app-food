@@ -1,0 +1,1 @@
+<h1 class="mt-5">Cadastre seus pratos!</h1>
